@@ -1,0 +1,12 @@
+{
+  "name": "47-07-09-trees-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tree.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Jim Geist",
+  "license": "ISC"
+}
