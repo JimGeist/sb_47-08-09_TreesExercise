@@ -6,7 +6,7 @@
 
 ## Assignment Details
 
-Create and test 3 methods for **[an n-ary] Tree**:
+Create and test 3 methods for an **[n-ary] Tree**:
 
 `sumValues()` - return the sum of all integers in the tree,
 
